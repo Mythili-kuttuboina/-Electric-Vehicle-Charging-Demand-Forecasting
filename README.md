@@ -1,6 +1,6 @@
 # Electric-Vehicle-Charging-Demand-Forecasting  
 ---
- Project Overview  
+Overview  
 ---
 This project focuses on forecasting the demand for Electric Vehicle (EV) charging using historical data. The goal is to analyze past trends and predict future charging demand to support efficient energy   management and infrastructure planning. 
 
@@ -36,5 +36,12 @@ Peak usage analysis
 Monthly/weekly demand patterns  
 
 (Add your dashboard screenshots inside the images folder and link them here)  
+
+
+Installation and Setup
+---
+1.Clone the repository: git clone https://github.com/your-username/-Electric-Vehicle-Charging-Demand-Forecasting.git  
+
+
 
 
