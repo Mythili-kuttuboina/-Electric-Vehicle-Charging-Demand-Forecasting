@@ -35,7 +35,9 @@ Actual vs Predicted demand comparison
 Peak usage analysis  
 Monthly/weekly demand patterns  
 
-(Add your dashboard screenshots inside the images folder and link them here)  
+![page1](https://github.com/Mythili-kuttuboina/-Electric-Vehicle-Charging-Demand-Forecasting/blob/main/Screenshot%202026-05-05%20181531.png?raw=true)
+---
+![page2](
 
 
 Installation and Setup
