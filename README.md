@@ -37,7 +37,9 @@ Monthly/weekly demand patterns
 
 ![page1](https://github.com/Mythili-kuttuboina/-Electric-Vehicle-Charging-Demand-Forecasting/blob/main/Screenshot%202026-05-05%20181531.png?raw=true)
 ---
-![page2](
+![page2](https://github.com/Mythili-kuttuboina/-Electric-Vehicle-Charging-Demand-Forecasting/blob/main/Screenshot%202026-05-05%20181821.png?raw=true)
+---
+
 
 
 Installation and Setup
