@@ -40,7 +40,7 @@ Monthly/weekly demand patterns
 
 Installation and Setup
 ---
-1.Clone the repository: git clone https://github.com/your-username/-Electric-Vehicle-Charging-Demand-Forecasting.git  
+1.Clone the repository: git clone https://github.com/mythili-kuttuboina/-Electric-Vehicle-Charging-Demand-Forecasting.git  
 
 
 
